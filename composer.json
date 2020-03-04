@@ -21,11 +21,6 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "autoload": {
-        "classmap": [
-            "scripts/composer/ScriptHandler.php"
-        ]
-    },
     "extra": {
         "installer-paths": {
             "web/core": ["type:drupal-core"],
