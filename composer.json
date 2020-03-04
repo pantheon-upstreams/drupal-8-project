@@ -1,5 +1,5 @@
 {
-    "name": "pantheon-systems/drupal-project",
+    "name": "pantheon-upstreams/drupal-project",
     "description": "Install Drupal (drops-8) with Composer on Pantheon.",
     "type": "project",
     "license": "MIT",
