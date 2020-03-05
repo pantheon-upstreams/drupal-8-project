@@ -1,6 +1,12 @@
 {
     "name": "internal/upstream-configuration",
     "type": "project",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
     "require": {
         "php": ">=7.0.8",
         "composer/installers": "^1.0.20",
