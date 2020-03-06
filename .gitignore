@@ -105,7 +105,8 @@
 /web/sites/example.settings.local.php
 /web/sites/example.sites.php
 /web/themes/README.txt
-
+/.drush-lock-update
+/.gitattributes
 
 # Other common rules
 # ------------------
