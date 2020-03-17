@@ -76,8 +76,6 @@ upstream/sites/
 upstream/themes/
 upstream/web/
 
-# TODO: figure out if we want to ignore composer.lock here.
-composer.lock
 
 # Generally you should only ignore the root vendor directory. It's important
 # that core/assets/vendor and any other vendor directories within contrib or
